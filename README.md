@@ -1,12 +1,9 @@
 # A Novel Edge Detection Method of Blade with Multi-Supervision for Fore-Background Confusion Caused by Extreme Illumination
-![Graphical_Abstract](https://github.com/user-attachments/assets/e107b688-6932-4793-a742-c2cb7ac4048e)
 
-![Pipeline](https://github.com/user-attachments/assets/de55d073-e9c8-4c30-8a73-7da165f2e244)
+## Code and Dataset
+The code and dataset are available at:
 
-
-## train
-
-
+## Train
 1. Unzip the dataset to the `dataset/` directory.
 2. Modify lines 47 and 48 in the `TrainData.py` file to select the desired data partitioning.
     ```
@@ -26,8 +23,7 @@
         train(config)
     ```
 
-## test
-
+## Test
 1. Fill in the parameters in the `args.py` file.
     ```
     // checkpoint path
