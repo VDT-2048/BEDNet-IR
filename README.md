@@ -1,6 +1,8 @@
 # A Novel Edge Detection Method of Blade with Multi-Supervision for Fore-Background Confusion Caused by Extreme Illumination
-![graph_abstract](BED_illu/Graphical_Abstract.jpg)
-![pipeline](BED_illu/pipeline.jpg)
+![Graphical_Abstract](https://github.com/user-attachments/assets/e107b688-6932-4793-a742-c2cb7ac4048e)
+
+![Pipeline](https://github.com/user-attachments/assets/de55d073-e9c8-4c30-8a73-7da165f2e244)
+
 
 ## train
 
@@ -49,9 +51,12 @@
 
 ## Result
 Detecting edges under extreme lighting conditions. (**A BETTER RESULTS ONLY IF  TRAINING ON SELF ANNOTATED DATA**)
-![biped](BED_illu/biped_gen.jpg)
 
-![ours](BED_illu/Ourvisible.jpg)
+![biped_gen](https://github.com/user-attachments/assets/2b29183c-1280-4b1f-a15e-7764e79232b0)
+
+
+![OurVisible](https://github.com/user-attachments/assets/5f0beb63-4e41-4d0a-9d5a-2867dade8c9b)
+
 ## Citation
 ```
 @ARTICLE{10623389,
